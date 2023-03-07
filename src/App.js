@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="App">
       <h1>Pursuit React Template</h1>
+      <p>My new update!</p>
     </div>
   );
 }
